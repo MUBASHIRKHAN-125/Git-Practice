@@ -1,4 +1,4 @@
-##📘 About This Repository
+📘 About This Repository
 This repository is created for practicing Git commands and workflows.
 I am learning Git to improve my version control skills, which are essential for collaboration, tracking code changes, and working on real-world projects.
 
